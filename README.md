@@ -62,7 +62,7 @@ in the images directory.
 | 1  | C1  | 25v 10nF Capacitor |
 | 1  | C2  | 25v 10uF Capacitor |
 | 1  | J1  | 1x5 2.54 Pitch Female Header |
-| 1  | C1  | Zener Diode |
+| 1  | X  | Zener Diode |
 | 1  | OUT  | Molex 0026481026 ([DigiKey](https://www.digikey.com/en/products/detail/molex/0026481026/26777?s=N4IgTCBcDa4GwBYAcBGADGOACAtgewBsBTADxAF0BfIA)) |
 | 1  | IN  | Molex 0009481114 ([DigiKey](https://www.digikey.com/en/products/detail/molex/0009481114/863330?s=N4IgTCBcDaIAwE4AsAOAjBpACAtgewBsBTADxAF0BfIA)) |
 
