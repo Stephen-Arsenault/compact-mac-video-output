@@ -9,6 +9,8 @@ Connelly, who lists himself as a Lead Electronic Technician, but it appears it w
 the model in my posession.
 
 # What is it?
+<a href="https://github.com/Stephen-Arsenault/compact-mac-video-output/blob/main/images/Power%20R%202702%20(unmodified).jpg?raw=true"><img align="left" width="300" height="400" src="https://github.com/Stephen-Arsenault/compact-mac-video-output/blob/main/images/Power%20R%202702%20(unmodified).jpg?raw=true" style="margin-right: 1em; margin-bottom: 1em;">
+ 
 The Power R 2702 adapter transmits video information from the logic board with slight massaging and is plugged between 
 the logic board connector and the logic board. All signals normally passed into the logic board cable are passed through
 the adapter so that they continue to work uninterrupted.
@@ -44,7 +46,8 @@ encourage them to comment!
 # Schematics
 The schematics for the board are available [here](/schematics). Additional documentation can be found in the [original eBay listing](https://www.ebay.com/itm/115065111992) or 
 in the images directory.
-![Power R 2702 Schematics](/schematics/Power R 2702 Schematics.pdf__LORES.jpg)
+
+![Power R 2702 Schematics](https://github.com/Stephen-Arsenault/compact-mac-video-output/blob/main/schematics/Power%20R%202702%20Schematics.pdf__LORES.jpg?raw=true)
 
 # BOM
 | QTY | ID | Part Description |
