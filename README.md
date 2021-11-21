@@ -6,7 +6,7 @@ address in southern Seattle.
 
 [Modest Googling](https://allpeople.com/james+baker_power-r-inc_1C-us) indicates the company also employed a Kevin 
 Connelly, who lists himself as a Lead Electronic Technician, but it appears it was nearly a decade after the release of 
-the model in my posession.
+the model in my posession. Copies of their early website is available on [wayback machine](https://web.archive.org/web/19981206112312/http://www.powerr.com/).
 
 # What is it?
 <a href="https://github.com/Stephen-Arsenault/compact-mac-video-output/blob/main/images/Power%20R%202702%20(unmodified).jpg?raw=true"><img align="left" width="300" height="400" src="https://github.com/Stephen-Arsenault/compact-mac-video-output/blob/main/images/Power%20R%202702%20(unmodified).jpg?raw=true" style="margin-right: 1em; margin-bottom: 1em;"></a>
@@ -26,6 +26,8 @@ basic. So basic that the hardware is concealed in epoxy potting.
 As far as output goes, it appears that the adapter did something comparable to Sony Standard or a CGA derivative. I am not
 familiar with early modern signals (nor contemporary signalling) — if anyone is more familiar with the specs below I
 encourage them to comment!
+
+
 
 ### Signal Specifications
  - **Resolution**
