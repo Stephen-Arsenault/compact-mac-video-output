@@ -46,7 +46,7 @@ encourage them to comment!
    - 0.75 Watts from Mac Power Supply
    
 # Schematics
-The schematics for the board are available [here](/schematics). Additional documentation can be found in the [original eBay listing](https://www.ebay.com/itm/115065111992) or 
+The schematics for the board are available [here](/schematics). Additional documentation can be found in the [original eBay listing](https://web.archive.org/web/20220120215806/https://www.ebay.com/itm/115065111992) or 
 in the images directory.
 
 ![Power R 2702 Schematics](https://github.com/Stephen-Arsenault/compact-mac-video-output/blob/main/schematics/Power%20R%202702%20Schematics.pdf__LORES.jpg?raw=true)
