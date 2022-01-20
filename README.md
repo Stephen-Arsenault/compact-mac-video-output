@@ -77,5 +77,5 @@ There are two compressed folders in the gerbers directory:
 # Special Thanks
 A special thanks is owed to the following people:
  - [Zone66x](https://github.com/alxlab-zone66x/) for alerting me to the unique eBay listing where I spent way too much.
- - [Bolle](https://github.com/bolzone) for helping me identify the original Molex connectors.
+ - [Bolle](https://github.com/TheRealBolle) for helping me identify the original Molex connectors.
  - The [Open Retro SCSI Discord server](https://discord.gg/5AtypUqFCT) for being a great place to discuss and brain storm projects. 
